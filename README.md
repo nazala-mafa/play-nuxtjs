@@ -6,6 +6,7 @@
 * scss
 * pug
 * typescript
+* docker
 
 ## Apis used
 
@@ -15,4 +16,5 @@
 note: i used kilo code for this learning
 
 * VsCode
-* KiloCode // just for asking
+* KiloCode
+* Docker
