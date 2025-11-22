@@ -6,7 +6,7 @@
 * scss
 * pug
 
-## This Apps Access Few api from 
+## This app Accesses Several api's from
 
 * [Pokemon api](https://pokeapi.co/)
 
