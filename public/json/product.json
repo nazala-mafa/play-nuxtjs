@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Sepak Bola Nike Mercurial",
+    "price": 1200000,
+    "image": "/default-image.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sepak Bola Adidas Predator",
+    "price": 1500000,
+    "image": "/default-image.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sepak Bola Puma One",
+    "price": 1800000,
+    "image": "/default-image.jpg"
+  }
+]
