@@ -5,9 +5,14 @@
 * nuxtjs
 * scss
 * pug
+* typescript
 
-## This app Accesses Several api's from
+## Apis used
 
 * [Pokemon api](https://pokeapi.co/)
 
+## Tools used
 note: i used kilo code for this learning
+
+* VsCode
+* KiloCode // just for asking
